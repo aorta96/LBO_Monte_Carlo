@@ -158,3 +158,8 @@ Correlated drivers, capital structure detail, and downside metrics reflect insti
 ## ⚠️ Disclaimer
 
 This model is for educational and analytical purposes only. It does not constitute investment advice or a recommendation to buy or sell any security.
+
+---
+
+**Last Updated**: December 2025  
+**Version**: 2.0  
